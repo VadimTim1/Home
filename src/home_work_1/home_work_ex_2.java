@@ -36,10 +36,7 @@ public class home_work_ex_2 {
         int v = (5 + 7 > 20 ? 68 : 22 * 2 >> num2) / --z;
         System.out.println("Результат выражения:" + v);
 
-
-
-
-
+        
         boolean g = 6 - 2 > 3 && 12 * 12 <= 119;//получаем результаты true и false.один из операндов равен false
         System.out.println("Результат выражения: " + g);
 
